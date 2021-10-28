@@ -1,0 +1,10 @@
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\bin\Debug\ascii_php_tool.exe.config
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\bin\Debug\ascii_php_tool.exe
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\bin\Debug\ascii_php_tool.pdb
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.csproj.AssemblyReference.cache
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.Form1.resources
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.Properties.Resources.resources
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.csproj.GenerateResource.cache
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.csproj.CoreCompileInputs.cache
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.exe
+F:\穆世宇\新建文件夹\渗透\工具\web\exp\php代码执行\ascii_php_tool\ascii_php_tool\obj\Debug\ascii_php_tool.pdb
